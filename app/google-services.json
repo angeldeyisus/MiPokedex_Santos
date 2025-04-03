@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "249815420635",
+    "project_id": "minipokedex-santosangel",
+    "storage_bucket": "minipokedex-santosangel.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249815420635:android:1ca6da76479086759606fe",
+        "android_client_info": {
+          "package_name": "santos.angel.minipokedex_santosangel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBWlrqffJLHscQTxhiL0Zqnj3gHDiihFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
